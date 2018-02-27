@@ -1,4 +1,3 @@
-﻿
 // Return true if ping  = success
         public static bool PingHost(string nameOrAddress)
         {
